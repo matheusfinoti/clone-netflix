@@ -8,7 +8,7 @@ import { Component, Input, OnInit } from '@angular/core';
 export class ListTitlesComponent {
 
   @Input() title: string | undefined;
-  @Input() lista: [] | undefined;
+  @Input() list = [{}];
 
   constructor() {
   }
