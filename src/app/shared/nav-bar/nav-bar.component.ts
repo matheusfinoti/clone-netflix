@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class NavBarComponent {
 
+opened = false;
+
+constructor(){
+}
+
+ngOnInit(): void {
+}
+
+toogle() {
+  this.opened = !this.opened;
+}
+
 }
