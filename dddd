@@ -1,0 +1,35 @@
+[33mcommit d011bad223558b09538edf898739f31ff3542671[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: matheusfinoti <matheusfinoti@gmail.com>
+Date:   Thu Feb 2 20:59:45 2023 -0300
+
+    Adicionada evento de click no botão do menu
+
+[33mcommit 64bd7b2ee87126d4ef38163925b15e935771202a[m
+Author: matheusfinoti <matheusfinoti@gmail.com>
+Date:   Thu Feb 2 20:33:42 2023 -0300
+
+    Feito a amarração entre os componentes para os dados serem passados com suas regras através de atributos
+
+[33mcommit 0cbcf4ce9494d08e90b58dde7d1adf7b27b9c245[m
+Author: matheusfinoti <matheusfinoti@gmail.com>
+Date:   Wed Feb 1 20:44:44 2023 -0300
+
+    Commit Japao
+
+[33mcommit fc8e7f1564b24993e5b1a8af20f4bc0793233d2f[m
+Author: matheusfinoti <matheusfinoti@gmail.com>
+Date:   Mon Jan 30 22:31:45 2023 -0300
+
+    Corrigido <h2> do CSS que estava no componente errado
+
+[33mcommit 38d4c269eb51b043b45fd8c664cd611dc7b9e257[m
+Author: matheusfinoti <matheusfinoti@gmail.com>
+Date:   Mon Jan 30 22:16:19 2023 -0300
+
+    Adicionado HTML, CSS. Componentes do Angular separados.
+
+[33mcommit edc2809436a99735b525f2eb14c6bde82090471d[m
+Author: matheusfinoti <matheusfinoti@gmail.com>
+Date:   Wed Jan 18 21:02:39 2023 -0300
+
+    initial commit
